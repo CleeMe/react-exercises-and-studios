@@ -6,6 +6,7 @@
 
 .movieHeading {
    font: Georgia;
+   background-color: aqua;
    text-underline-position: below;
    font-size: larger;
    color: limegreen;
