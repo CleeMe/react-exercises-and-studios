@@ -21,6 +21,7 @@ function RecipeAuthor() {
 }
 class RecipeDescription extends React.Component {
     render () {
+        return ( 
         <div>
             <div>
                 <h1> Cinnamon Rolls</h1>
@@ -29,6 +30,7 @@ class RecipeDescription extends React.Component {
             </div>
             <RecipeAuthor />
         </div>
+        )
     }
 
 }
